@@ -11,6 +11,7 @@
 - [A Shot of Code](https://github.com/markjameshoward)
 - [Masoud Torkian](github.com/Giyumtell)
 - [Krishna Sahani](https://github.com/krishna0303)
+- [Bryan Hutchinson 🌊🌊🌊](https://github.com/cbh20)
 - [Albino Cianciotti](https://github.com/albino98)
 - [Rishabh Jha](https://github.com/bruteF04C3)
 - [Aniruddha Deshmukh](https://github.com/aniruddhadeshmukh2201)
